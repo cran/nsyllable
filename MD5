@@ -1,0 +1,15 @@
+37821525f7683e69a7dbcb95321a16a5 *DESCRIPTION
+956ac9701e460c0953c703ab22e0e962 *NAMESPACE
+ae680eceab76b8f08a277ebdabec84e6 *R/data.R
+3852ec386a680568383e4b6feefa37af *R/nsyllable-package.R
+22c767b1bc8634a0556cd70245dec943 *R/nsyllable.R
+1208044af660d2a23e02909ef5cd641f *README.md
+afe3f9adeee0f7f5f95f2b198b6ab307 *data/data_syllables_en.rda
+994b476f8ba4fc794f794e7b1562a914 *inst/README_CMU.txt
+b3693f6219d761bf5f5c1de2ca3803c9 *inst/WORDLIST
+7a12db161ec8c5d865862aa8d2ae76f2 *man/data_syllables_en.Rd
+e620c6097eef93ba62b00a42cfe32065 *man/nsyllable-package.Rd
+023a4628bd9bbe883e50804898b123de *man/nsyllable.Rd
+74d8a2fa3aabf7a53e3f459810710055 *tests/spelling.R
+41f62e57709c7dc97f08acb05b389d2a *tests/testthat.R
+f920933cef3bd50efe9cbabf2faa3c52 *tests/testthat/test-nsyllable.R
