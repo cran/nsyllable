@@ -5,21 +5,21 @@
 
 [![CRAN
 Version](https://www.r-pkg.org/badges/version/nsyllable)](https://CRAN.R-project.org/package=nsyllable)
-[![](https://img.shields.io/badge/devel%20version-1.0-royalblue.svg)](https://github.com/quanteda/nsyllable)
+[![](https://img.shields.io/badge/devel%20version-1.0.1-royalblue.svg)](https://github.com/quanteda/nsyllable)
 [![Downloads](https://cranlogs.r-pkg.org/badges/nsyllable)](https://CRAN.R-project.org/package=nsyllable)
 [![Total
 Downloads](https://cranlogs.r-pkg.org/badges/grand-total/nsyllable?color=orange)](https://CRAN.R-project.org/package=nsyllable)
 [![R build
 status](https://github.com/quanteda/nsyllable/workflows/R-CMD-check/badge.svg)](https://github.com/quanteda/nsyllable/actions)
-[![codecov](https://codecov.io/gh/quanteda/nsyllable/branch/master/graph/badge.svg)](https://codecov.io/gh/quanteda/nsyllable)
+[![codecov](https://codecov.io/gh/quanteda/nsyllable/branch/master/graph/badge.svg)](https://app.codecov.io/gh/quanteda/nsyllable)
 <!-- badges: end -->
 
 ## About
 
 Counts syllables in character vectors. For English, this looks up
 syllables from the [Carnegie Mellon University Pronouncing
-Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict), or guesses
-the syllables as the number of vowel sequences for words not found.
+Dictionary](https://github.com/cmusphinx/cmudict), or guesses the
+syllables as the number of vowel sequences for words not found.
 User-supplied syllable word lists are also supported.
 
 We hope to add lookup tables for additional languages in the future.
